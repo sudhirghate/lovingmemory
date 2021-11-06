@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1636212998",layout:"default",error:{statusCode:404,path:a,message:"This page could not be found"},serverRendered:false,routePath:a,config:{name:"Sudhir Ghate",dates:"Nov 12 1957 - Oct 22 2021"}}}("\u002Fcharity-donation"));
