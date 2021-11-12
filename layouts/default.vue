@@ -284,4 +284,11 @@ ul {
 .svg-inline--fa.fa-fw {
     width: 1.25em;
 }
+
+.youtube { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.youtube iframe, .youtube object, .youtube embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+
+
 </style>
