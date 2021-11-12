@@ -285,10 +285,28 @@ ul {
     width: 1.25em;
 }
 
-.youtube { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
 
-.youtube iframe, .youtube object, .youtube embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
+    .youtube iframe, .youtube object, .youtube embed {
+        width: 100%;
+        height: 100%;
+        }
+
+    @media (min-height: 600px) {
+    .youtube {
+       width:50vw;
+        height:50vh;
+     }
+     }
+
+
+
+    @media (max-height: 600px) {
+    .youtube {
+      width:80vw;
+      height:40vh; 
+     }
+    }
 
 
 </style>
