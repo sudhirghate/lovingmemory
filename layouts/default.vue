@@ -294,8 +294,8 @@ ul {
 
     @media (min-height: 600px) {
     .youtube {
-       width:40vw;
-        height:40vh;
+       width:42vw;
+        height:42vh;
      }
      }
 
